@@ -1,0 +1,1 @@
+Run spotdl --download-ffmpeg on cmd after installing the requirements.
